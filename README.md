@@ -1,4 +1,4 @@
-# benmilne-com
+# Ben Milne
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-benmilne-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://benmilne.com/
+Ben Milne is a personal site and long-form archive of Ben Milne, a fintech entrepreneur and founder of Brale, a stablecoin infrastructure company. The site publishes essays on value design, protocol thinking, payments, and building companies, alongside a public read‑only JSON API for posts, search, categories, and product metadata. It serves as a hub for his writings, open‑source API, and links to his work at Brale, Dwolla, Basis Theory, and other ventures.
+
+**Areas:** Personal · Blog · Fintech · Payments · Value-Design
+
+## Ben Milne on APIs.io
+
+Everything profiled for Ben Milne is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/benmilne-com/](https://apis.io/providers/benmilne-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [Ben Milne Ask API](https://apis.io/apis/benmilne-com/benmilne-com-ask-api/) — The Ask API from Ben Milne — 1 operation(s) for ask.
+- [Ben Milne Batch API](https://apis.io/apis/benmilne-com/benmilne-com-batch-api/) — The Batch API from Ben Milne — 1 operation(s) for batch.
+- [Ben Milne Categories API](https://apis.io/apis/benmilne-com/benmilne-com-categories-api/) — The Categories API from Ben Milne — 2 operation(s) for categories.
+- [Ben Milne Contact API](https://apis.io/apis/benmilne-com/benmilne-com-contact-api/) — The Contact API from Ben Milne — 1 operation(s) for contact.
+- [Ben Milne Languages API](https://apis.io/apis/benmilne-com/benmilne-com-languages-api/) — The Languages API from Ben Milne — 1 operation(s) for languages.
+- [Ben Milne MCP API](https://apis.io/apis/benmilne-com/benmilne-com-mcp-api/) — The Mcp API from Ben Milne — 2 operation(s) for mcp.
+- [Ben Milne Posts API](https://apis.io/apis/benmilne-com/benmilne-com-posts-api/) — The Posts API from Ben Milne — 2 operation(s) for posts.
+- [Ben Milne Products API](https://apis.io/apis/benmilne-com/benmilne-com-products-api/) — The Products API from Ben Milne — 1 operation(s) for products.
+- [Ben Milne Search API](https://apis.io/apis/benmilne-com/benmilne-com-search-api/) — The Search API from Ben Milne — 1 operation(s) for search.
+- [Ben Milne Site API](https://apis.io/apis/benmilne-com/benmilne-com-site-api/) — The Site API from Ben Milne — 1 operation(s) for site.
+- [Ben Milne Status API](https://apis.io/apis/benmilne-com/benmilne-com-status-api/) — The Status API from Ben Milne — 1 operation(s) for status.
+- [Ben Milne Stream API](https://apis.io/apis/benmilne-com/benmilne-com-stream-api/) — The Stream API from Ben Milne — 1 operation(s) for stream.
+- [Ben Milne Tags API](https://apis.io/apis/benmilne-com/benmilne-com-tags-api/) — The Tags API from Ben Milne — 2 operation(s) for tags.
+- [Ben Milne Graph QL API](https://apis.io/apis/benmilne-com/benmilne-com-graph-ql-api/) — The Graph QL API from Ben Milne — 1 operation(s) for graph ql.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Benmilne Com Agentic Access](https://apis.io/agentic-access/benmilne-com/benmilne-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [LanguagesResponse](https://apis.io/schemas/benmilne-com/benmilne-com-languages-response/)
+- [NLWebResponse](https://apis.io/schemas/benmilne-com/benmilne-com-nlweb-response/)
+- [PaginatedPostsResponse](https://apis.io/schemas/benmilne-com/benmilne-com-paginated-posts-response/)
+- [ProductResponse](https://apis.io/schemas/benmilne-com/benmilne-com-product-response/)
+- [StatusResponse](https://apis.io/schemas/benmilne-com/benmilne-com-status-response/)
+- [TaxonomyListResponse](https://apis.io/schemas/benmilne-com/benmilne-com-taxonomy-list-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Benmilne Com Context](https://apis.io/jsonld/benmilne-com/benmilne-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ben Milne API Rules](https://apis.io/rules/benmilne-com/benmilne-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Benmilne Com Authentication](https://apis.io/security/benmilne-com/benmilne-com-authentication/)
+- [Benmilne Com Domain Security](https://apis.io/security/benmilne-com/benmilne-com-domain-security/)
+- [Benmilne Com Vulnerability Disclosure](https://apis.io/security/benmilne-com/benmilne-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Benmilne Com Scopes](https://apis.io/scopes/benmilne-com/benmilne-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://benmilne.com/)
+- [Documentation](https://benmilne.com/openapi.json)
+- [Getting started](https://benmilne.com/about)
+- [API reference](https://benmilne.com/openapi.json)
+- [Support](https://benmilne.com/contact)
+- [Blog](https://benmilne.com/feed.xml)
+- [GitHub](https://github.com/benmilne-com)
+
+## API Evangelist rating
+
+**Kin Score 45.4** — developing · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 58.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 54.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | self |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.5** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/benmilne-com/](https://apis.io/providers/benmilne-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ben Milne: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/benmilne-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
